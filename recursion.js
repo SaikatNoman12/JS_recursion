@@ -12,7 +12,7 @@ function countDown(number) {
         countDown(newNumber);
 
     }
-
+    
 }
 
 countDown(10);
